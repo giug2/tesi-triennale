@@ -11,7 +11,7 @@ Il cuore del lavoro è l'analisi e l'applicazione della **virtualizzazione del D
 ## Tecnologie utilizzate
 
 - **[React.js](https://reactjs.org/)** – Framework JavaScript basato sul Virtual DOM.
-- **R[react-window](https://react-window.vercel.app/)eact-window** – Libreria per la virtualizzazione di liste e griglie.
+- **[react-window](https://react-window.vercel.app/)** – Libreria per la virtualizzazione di liste e griglie.
 - **[Google Lighthouse](https://developers.google.com/web/tools/lighthouse)** – Tool di Google per l’analisi delle Web Performance.
 - **HTML, CSS, JavaScript** – Per la creazione del sito sperimentale.
 
